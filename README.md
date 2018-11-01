@@ -1,3 +1,15 @@
+### 解决问题
+imagenet图像识别
+
+### 运行方法
+1. nbm i 
+2. nbm i -g parcel
+3. nbm run watch
+
+### more
+1. 代码参考tensorflow.js示例
+2. 有问题随便问哈@maxiaobo
+
 # TensorFlow.js Example: Mobilenet
 
 This example shows you how to load a pretrained mobilenet model.
