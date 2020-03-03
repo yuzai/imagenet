@@ -10,6 +10,12 @@ imagenet图像识别
 1. 代码参考tensorflow.js示例
 2. 有问题随便问哈@maxiaobo
 
+### 演示地址
+
+打包没有经过优化，完全参照parcel默认配置来的，js包可能较大，同时静态文件是直接丢在github上的，速度会比较慢，不要介意
+
+http://blog.maxiaobo.com.cn/imagenet/dist/
+
 # TensorFlow.js Example: Mobilenet
 
 This example shows you how to load a pretrained mobilenet model.
